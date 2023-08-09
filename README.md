@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Tamara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 
 <p align="center">
-  <a href="https://github.com/TamaraRibeiro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=From%20Brazil;BSc.+in+Computer+Science;Game+Developer;Frontend+Developer;AI%20|%20Quantum+Computing%20Enthusiast;Always+willing+to+learn;Welcome!&center=true&width=500&height=50"></a>
+  <a href="https://github.com/TamaraRibeiro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=From+Brazil;BSc.+in+Computer+Science;Game+Developer;Frontend+Developer;AI%20|%20Quantum+Computing%20Enthusiast;Always+willing+to+learn;Welcome!&center=true&width=500&height=50"></a>
 </p>
 
 <!-- ABOUT -->
@@ -38,7 +38,8 @@
   &emsp; ☆ Dogs and cats lover <img align="top" src="https://media.giphy.com/media/Bsv6PdWR73Qd4vbuMh/giphy.gif" width="25px"> </br>
   &emsp; ☆ Love to sing and play <img align="center" src="https://media.giphy.com/media/gYjWZ7c1aVRVxIpo4Z/giphy.gif" width="25px"> </br>
   &emsp; ☆ Do painting <img align="top" src="https://media.giphy.com/media/Kao4Tc3EEfqrf8PoN7/giphy.gif" width="25px"> </br>
-  &emsp; ☆ Watch movies and series <img align="top" src="https://media.giphy.com/media/emM9YOrCcG5KQhqQup/giphy.gif" width="25px"> 
+  &emsp; ☆ Watch movies and series <img align="top" src="https://media.giphy.com/media/emM9YOrCcG5KQhqQup/giphy.gif" width="25px"> </br>
+  &emsp; ☆ I am an English Teacher <img align="top" src="https://media.giphy.com/media/ysyMmtuCA0AK9diW0I/giphy.gif" width="20px"> 
 </p>
 
 ---
