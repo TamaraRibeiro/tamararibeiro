@@ -16,7 +16,7 @@
 🧐 I am interested in Game Development, Web Development, AI and Quantum Computing.
 </div> </br>
 
-<p><img align="top" src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="20px"> <b> I’m currently studying and improving:</b></br>
+<p><img align="top" src="https://media.giphy.com/media/tDDIeB24eaOr3xhbia/giphy.gif" width="20px"> <b> I’m currently studying and improving:</b></br>
   &emsp; ☆ React.js </br>
   &emsp; ☆ Next.js </br>
   &emsp; ☆ Node.js </br> 
@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="20px"> <b> I am open to freelance projects.</b></p>
 
-<p><img align="center" src="https://media.giphy.com/media/WCS0Vbr4odJ615HPMe/giphy.gif" width="20px"> <b> Reach out to me at: </b><a href="mailto:tamara.fl@hotmail.com">tamara.fl@hotmail.com</a> or <a href="https://wa.me/5541996918782">WhatsApp</a> </p>
+<p><img align="center" src="https://media.giphy.com/media/WCS0Vbr4odJ615HPMe/giphy.gif" width="20px"> <b> Reach out to me: </b><a target="_blank" href="mailto:tamara.fl@hotmail.com">e-mail</a>, <a href="https://www.linkedin.com/in/tamaralizschwabribeiro/" target="_blank">LinkedIn</a> or <a target="_blank" href="https://wa.me/5541996918782">WhatsApp</a> </p>
 
 <p><img align="center" src="https://media.giphy.com/media/2HYe5dPd4Irq2DedRB/giphy.gif" width="20px"> <b>Fun facts:</b></br>
   &emsp; ☆ Dogs and cats lover <img align="top" src="https://media.giphy.com/media/Bsv6PdWR73Qd4vbuMh/giphy.gif" width="25px"> </br>
