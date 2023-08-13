@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="20px"> <b> I am open to freelance projects.</b></p>
 
-<p><img align="center" src="https://media.giphy.com/media/WCS0Vbr4odJ615HPMe/giphy.gif" width="20px"> <b> Reach out to me: </b><a target="_blank" href="mailto:tamara.fl@hotmail.com">e-mail</a>, <a href="https://www.linkedin.com/in/tamaralizschwabribeiro/" target="_blank">LinkedIn</a> or <a target="_blank" href="https://wa.me/5541996918782">WhatsApp</a> </p>
+<p><img align="center" src="https://media.giphy.com/media/WCS0Vbr4odJ615HPMe/giphy.gif" width="20px"> <b> Reach out to me: </b><a target="blank" href="mailto:tamara.fl@hotmail.com">e-mail</a>, <a target="blank"href="https://www.linkedin.com/in/tamaralizschwabribeiro/">LinkedIn</a> or <a target="blank" href="https://wa.me/5541996918782">WhatsApp</a> </p>
 
 <p><img align="center" src="https://media.giphy.com/media/2HYe5dPd4Irq2DedRB/giphy.gif" width="20px"> <b>Fun facts:</b></br>
   &emsp; ☆ Dogs and cats lover <img align="top" src="https://media.giphy.com/media/Bsv6PdWR73Qd4vbuMh/giphy.gif" width="25px"> </br>
@@ -78,11 +78,14 @@
 <!-- CONNECT -->
 
 <h3><img align="top" src="https://media.giphy.com/media/AEMgXCqNwfxvbNWVCt/giphy.gif" width="25px"> Connect with me:</h3>
-<div align="center">
-  <a href="https://linkedin.com/in/tamaralizschwabribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamaralizschwabribeiro" height="25px" width="30px" /></a>
-  <a href="https://instagram.com/taahribeeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taahribeeiro" height="25px" width="30px" /></a>
-  <a href="https://wa.me/5541996918782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="taahribeeiro" height="25px" width="30px" /></a>
-<!--   <a href="mailto:tamara.fl@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="taahribeeiro" height="25px" width="30px" /></a> -->
+<div  align="center">
+  <a href="https://linkedin.com/in/tamaralizschwabribeiro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" width="30px" /></a>
+  <a href="mailto:taah.ribeiro97@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="28" width="30px" /></a>
+  <a href="http://discordapp.com/users/tamararibs" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" width="30px" /></a>
+<!--  <a href="https://www.instagram.com/taahribeeiro/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" width="30px" /></a> -->
+ <a href="https://instagram.com/taahribeeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taahribeeiro" height="28" width="30px" /></a>
+  <a href="https://wa.me/5541996918782" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" alt="whatsapp" width="30px" /></a>
+  <a href="mailto:tamara.fl@hotmail.com"><img align="center" src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" alt="outlook" height="28" width="30px" /></a>
 </div>
 
 ---
