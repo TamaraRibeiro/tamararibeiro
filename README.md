@@ -81,7 +81,7 @@
 <div  align="center">
   <a href="https://linkedin.com/in/tamaralizschwabribeiro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" width="30px" /></a>
   <a href="mailto:taah.ribeiro97@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="28" width="30px" /></a>
-  <a href="http://discordapp.com/users/tamararibs" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" width="30px" /></a>
+  <a href="http://discordapp.com/users/tamararibs" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="28" width="30px" /></a>
 <!--  <a href="https://www.instagram.com/taahribeeiro/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" width="30px" /></a> -->
  <a href="https://instagram.com/taahribeeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taahribeeiro" height="28" width="30px" /></a>
   <a href="https://wa.me/5541996918782" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" alt="whatsapp" width="30px" /></a>
