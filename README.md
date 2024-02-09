@@ -137,7 +137,7 @@
 <!-- GITHUB STATS -->
 
 <h3> <picture> <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px>  </picture>My Github Stats </h3>
-<div  align="center">
+<div  align="center" margin-top="10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamararibeiro&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tamararibeiro"  width="435px" />
 <!-- All commits:   <img src="https://github-readme-stats.vercel.app/api?username=TamaraRibeiro&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="435px"/> -->
    &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamararibeiro&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="335px" alt="tamararibeiro" /> 
